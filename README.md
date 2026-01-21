@@ -44,7 +44,7 @@ Cascade-HMM is intended for:
 
 If you use Cascade-HMM in academic work, please cite:
 
-Conor A. Treacy, Cascade-HMM: Hidden Markov modelling for time-resolved
+Dr Conor A. Treacy, Cascade-HMM: Hidden Markov modelling for time-resolved
 fluorescence data analysis,
 Biomedical Optics Express, forthcoming.
 
@@ -65,4 +65,5 @@ You are free to use, modify, and distribute the code with attribution.
 ## Contact
 
 Maintained by Conor Treacy
-📫 Contact: LinkedIn | Email
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/conor-treacy-phd-2aa7406a/) | [Email](mailto:conor.treacy@brunel.ac.uk)
+
