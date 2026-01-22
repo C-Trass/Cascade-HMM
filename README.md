@@ -23,11 +23,11 @@ observations, and temporal structure must be inferred robustly from data.
 ## Installation
 
 Clone the repository and install dependencies:
-
+```bash
 git clone https://github.com/C-Trass/Cascade-HMM.git
 cd Cascade-HMM
 pip install -r requirements.txt
-
+```
 ---
 
 ## Who is this for?
